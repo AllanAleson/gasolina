@@ -1,0 +1,13 @@
+﻿.gradle/
+.gradle-user/
+.idea/
+build/
+**/build/
+local.properties
+*.iml
+*.log
+*.apk
+*.aab
+*.zip
+*.jks
+*.keystore
